@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200906</CreaDate><CreaTime>23030000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20200906" Time="230300">PolygonToRaster polygon_b2000 gridcode "C:\Users\li\Desktop\landscape pattern\RASTER_2000.tif" CELL_CENTER NONE 0.0036</Process></lineage></DataProperties></Esri></metadata>
